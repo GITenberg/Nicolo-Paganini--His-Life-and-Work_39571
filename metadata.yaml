@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '40089'
     url: http://www.gutenberg.org/2009/agents/40089
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39571#Nicolo-Paganini--His-Life-and-Work
 gutenberg_issued: '2012-04-29'
 gutenberg_type: Text
 identifiers:
