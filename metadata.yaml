@@ -1,0 +1,29 @@
+_repo: Nicolo-Paganini--His-Life-and-Work_39571
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39571-h/images/covers.jpg
+creator:
+  author:
+    agent_name: Stratton, Stephen S. (Stephen Samuel)
+    alias: Stratton, Stephen Samuel
+    birthdate: 1840
+    deathdate: 1906
+    gutenberg_agent_id: '40089'
+    url: http://www.gutenberg.org/2009/agents/40089
+description: ''
+gutenberg_issued: '2012-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39571'
+  lccn: 08026673
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paganini, Nicolò, 1782-1840'
+- !lcc 'ML'
+- !lcsh 'Violinists -- Biography'
+title: 'Nicolo Paganini: His Life and Work'
+url: http://www.gutenberg.org/ebooks/39571
